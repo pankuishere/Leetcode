@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/pankuishere/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/pankuishere/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/pankuishere/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Greedy
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/pankuishere/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/pankuishere/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/pankuishere/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Dynamic Programming
